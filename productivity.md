@@ -16,7 +16,8 @@ to do a lot of cut/copy/paste within a file (sorry, Vim).
 Finder-like file manager in the console
 
 ### [TaskWarrior](https://taskwarrior.org/) (aka "task")
-Haven't started using this yet but it's supposed to be a todo list
+Haven't started using this yet but it's supposed to be a todo list.
+
 __EDIT:__ I am actually quite enjoying TaskWarrior. It's simplistic enough to not be
 annoying. At launch of a new iTerm session, I have my tasks listed so I'm less likely
 to forget. The only real issue is being unable to specify the urgency of tasks. Tasks
